@@ -14,5 +14,5 @@ Description of the project -: In this project, we are creating a file system whi
 
 Data structures used in the project -: Singly Linear Linked List.
 
-Run this project on terminal by using : gcc Virtual File System.c
-and then run the a.out file.
+Compile this project on terminal by using : gcc Virtual File System.c
+and then run it by using ./a.out command.
