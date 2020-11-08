@@ -1,6 +1,6 @@
 ----------------Virtual_File_System----------------
 
-Name of the project -: VFS (Virtual File System)
+Name of the project -: **VFS (Virtual File System)**
 
 Technology -: C-Programming Language
 
